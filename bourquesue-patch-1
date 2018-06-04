@@ -1,0 +1,2 @@
+var linkText = document.querySelector('left a').text = 'computer scientist'
+var linkHref = document.querySelector('left a').href = 'https://en.wikipedia.org/wiki/Computer_scientist'
